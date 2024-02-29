@@ -1,0 +1,5 @@
+Rahmetullah gönül:90,100,90
+mehmet yılmaz:50,60,0
+deniz efe:60,70,80
+ahmet gönül:100,100,100
+zehra gönül:100,90,94
